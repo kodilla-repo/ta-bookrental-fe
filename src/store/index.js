@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import Axios from 'axios'
 
-const apiUrl = 'https://ta-ebookrental-prod-kodilla-xmhvai.mo1.mogenius.io'
+const apiUrl = 'https://ta-ebookrental.kodillaadministrators.repl.co'
 
 Vue.use(Vuex)
 
